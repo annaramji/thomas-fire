@@ -1,4 +1,4 @@
-# Thomas Fire
+# Thomas Fire Data Analysis
 
 ### Geospatial data analysis &amp; visualization in Python (Jupyter Notebooks) of California's [Thomas Fire](https://en.wikipedia.org/wiki/Thomas_Fire) (December 2017) 
 
