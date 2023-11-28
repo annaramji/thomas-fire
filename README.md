@@ -2,7 +2,7 @@
 
 ### Geospatial data analysis &amp; visualization in Python (Jupyter Notebooks) of California's [Thomas Fire](https://en.wikipedia.org/wiki/Thomas_Fire) (December 2017) 
 
-Author: Anna Ramji @a-ramji | a-ramji@github.io
+Author: Anna Ramji [@a-ramji](https://github.com/a-ramji) | a-ramji@github.io
 
 This repository contains a Jupyter Notebook of my analysis and visualization of three key datasets related to the Thomas Fire.
 
