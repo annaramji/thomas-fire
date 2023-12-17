@@ -1,5 +1,8 @@
 # Thomas Fire Data Analysis
 
+![thomas-fire-img](https://labs.eemb.ucsb.edu/iglesias-rodriguez/debora/sites/labs.eemb.ucsb.edu.iglesias-rodriguez.debora/files/styles/pop_up/public/news/thomas_fire2.jpg?itok=m48rq9kz)
+Image credits: [Iglesias-Rodriguez Lab, UCSB, Project ACIDD](https://labs.eemb.ucsb.edu/iglesias-rodriguez/debora/news/596)
+
 ### Geospatial data analysis &amp; visualization in Python (Jupyter Notebooks) of California's [Thomas Fire](https://en.wikipedia.org/wiki/Thomas_Fire) (December 2017) 
 
 Author: Anna Ramji [@a-ramji](https://github.com/a-ramji) | a-ramji@github.io
