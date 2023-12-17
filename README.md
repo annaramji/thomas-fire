@@ -7,6 +7,8 @@ Image credits: [Iglesias-Rodriguez Lab, UCSB, Project ACIDD](https://labs.eemb.u
 
 Author: Anna Ramji [@a-ramji](https://github.com/a-ramji) | a-ramji@github.io
 
+Read more about this project on my [blog](https://a-ramji.github.io/blog/thomas-fire/thomas-fire-analysis-blog.html)
+
 This repository contains a Jupyter Notebook of my analysis and visualization of three key datasets related to the Thomas Fire.
 
 ## Data
